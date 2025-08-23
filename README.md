@@ -1,2 +1,9 @@
-# MyLibrary_Testing_Plan
-This repository documents the end-to-end testing process for the MyLibrary application.  Showcasing test planning, manual test cases, bug reports, and final reports to demonstrate a commitment to delivering high-quality software.
+# MyLibrary_Testing_Plan 📚
+My Library is a personalized book management web system designed to help users efficiently organize their personal book collections. The platform simplifies the process of tracking books by allowing users to add, update, and delete book records. This repository documents the end-to-end testing process for the MyLibrary application.  Showcasing test planning, manual test cases, bug reports, and final reports to demonstrate a commitment to delivering high-quality software.
+
+## 🛠️ Includes 
+
+- Test Plan
+- Test Result Sheet
+- API Test Result Sheet
+- Final Report
